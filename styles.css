@@ -1,0 +1,244 @@
+header{
+    background-image:url(/images/Bitmap.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+    
+}
+body{
+    margin: 0px;
+    padding: 0px
+}
+
+
+nav{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+#navBar{
+    margin-left: 690px;
+}
+li{
+    display: inline;
+}
+
+li a{
+  padding: 8px;
+  
+}
+#Title{
+    display: flex;
+    display: inline;
+    text-align: center;
+}
+#Emotions{
+    word-spacing: 20px;
+    margin-right: 20px;
+}
+
+
+button{
+    border: none;
+    background: none;
+    padding: 0;
+    outline: none;
+    display: block;
+    margin: auto;
+}
+.lowTitle{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.round-img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+#expertPic img {
+    display: flex;
+    display: inline;
+    padding-inline: 100px;
+   
+}
+#expertName h3{
+    display: flex;
+    display: inline;
+    padding-inline: 112px;
+}
+#expertAward p{
+    display: flex;
+    display: inline;
+    padding-inline: 120px;
+}
+
+#fistPartMain{
+    background-color: hsl(24, 98%, 53%);
+}
+#Quote{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 250px;
+}
+
+#quotetxt {
+    padding-top: 25px;
+    margin-left: 50px;
+    text-align: left;
+    
+}
+.Title2{
+    display: flex;
+    margin-left: 600px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+#NameRate1{
+    display: flex;
+    align-items: center;
+
+}
+#NameRate1 p{
+margin-left: 30px;
+}
+#Rating1{
+    display: flex;
+    align-items: center;
+}
+#Rating1 p{
+    margin-left: 50px;
+}
+
+#NameRate2{
+    display: flex;
+    align-items: center;
+
+}
+#NameRate2 p{
+margin-left: 30px;
+}
+#Rating2{
+    display: flex;
+    align-items: center;
+}
+#Rating2 p{
+    margin-left: 50px;
+}
+
+#NameRate3{
+    display: flex;
+    align-items: center;
+
+}
+#NameRate3 p{
+margin-left: 30px;
+}
+#Rating3{
+    display: flex;
+    align-items: center;
+}
+#Rating3 p{
+    margin-left: 50px;
+}
+
+#NameRate4{
+    display: flex;
+    align-items: center;
+
+}
+#NameRate4 p{
+margin-left: 30px;
+}
+#Rating4{
+    display: flex;
+    align-items: center;
+}
+#Rating4 p{
+    margin-left: 50px;
+}
+
+
+#tutorial{
+    width:80% ;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#videoText1 , #videoText2 , #videoText3 , #videoText4{
+    width: 22%;
+    float: left;
+    margin: 10px;
+}
+
+#videoText1 > video , #videoText2 > video , #videoText3 > video , #videoText4 > video {width: 100%;}
+
+#membership{
+    background-color: hsl(24, 98%, 53%);
+}
+#membership h1{
+    padding: 50px;
+    padding-left: 650px;
+}
+
+#membershipInfo{
+    width:75%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.info{
+    width: 20%;
+    float: left;
+    margin: 25px;
+}
+
+#faq h1{
+    padding: 30px;
+    padding-left: 650px;
+}
+
+.BigContainer{
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    max-width: 70%;
+}
+
+    
+
+.Smallcontiner{
+    width: 30%;
+    float: left;
+    padding: 0 40px 0 40px;
+    margin-left: 70px;
+
+}
+
+
+footer{
+    background-color: orangered;
+    height: 150px;
+    text-align: center;
+}
+#logo{
+    max-width: 200px;
+    width: 100%;
+    float: left;
+    padding-left: 10px;
+    padding-top: 70px;
+}
+
+.social{
+    overflow: hidden;
+   float: right;
+   padding-right: 10px;
+   padding-top: 70px;
+
+}
+.text {
+    padding-top: 126px;
+}
